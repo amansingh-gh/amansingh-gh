@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amansingh-gh
-- 👀 I’m interested in ... Build Myself
+- 👀 I’m interested in ... Building Myself
 - 🌱 I’m currently learning ... Web Dev, Java
 - 💞️ I’m looking to collaborate on ... //.................//
 - 📫 How to reach me ... //..............//
