@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Aman Singh</h1>
+<h1 align="center">Bonjour 👋, I'm Aman Singh</h1>
 <h3 align="center">Passionate Frontend Developer</h3>
 
 <img align="right" alt="Coding" width = "300" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Node, React, MySQl , Java**
 
-- 👨‍💻 All of my projects are available [Coming Soon](Coming Soon)
+- 👨‍💻 All of my projects are available (Coming Soon)
 
-- 📄 Know about my experiences [Coming Soon](Coming Soon)
+- 📄 Know about my experiences (Coming Soon)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
