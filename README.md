@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amansingh-gh&label=Profile%20views&color=0e75b6&style=flat" alt="amansingh-gh" /> </p>
 
-- 🌱 I’m currently learning **Node, React, MySQl , Java**
+- 🌱 I’m currently learning **MERN Stack & Networking**
 
-- 👨‍💻 All of my projects are available (Coming Soon)
+- 👨‍💻 All of my projects are available (Uploading Soon)
 
-- 📄 Know about my experiences (Coming Soon)
+- 📄 Know about my experiences (Upadting Soon)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
