@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack & Networking**
 
-- 👨‍💻 All of my projects are available on github.com/amansingh-gh
+- 👨‍💻 All of my projects are available on [github.com/amansingh-gh](https://github.com/amansingh-gh)
 
 
 <h3 align="left">Connect with me:</h3>
