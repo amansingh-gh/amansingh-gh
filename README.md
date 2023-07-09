@@ -15,7 +15,7 @@
 <a href="https://instagram.com/_x_aman_singh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_x_aman_singh_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aman_singh_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aman_singh_007" height="30" width="40" /></a>
 </p>
-## Connect with me  
+<!-- ## Connect with me   -->
 <a href="https://github.com/amansingh-gh" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
