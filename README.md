@@ -52,4 +52,4 @@
 <hr>
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai)
+[![trophy](https://github-profile-trophy.vercel.app/?username=amansingh-gh-ma&theme=monokai)
