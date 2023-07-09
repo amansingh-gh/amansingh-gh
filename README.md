@@ -101,5 +101,6 @@
 <br/>  
 
 ## 🏆 GitHub Trophies
+gvgg
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Z4nzu&column=7)](https://github.com/ryo-ma/github-profile-trophy)
