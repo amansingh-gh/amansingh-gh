@@ -1,13 +1,3 @@
-<h1 align="center">Bonjour 👋, I'm Aman Singh</h1>
-
-<img align="right" alt="Coding" width = "300" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amansingh-gh&label=Profile%20views&color=0e75b6&style=flat" alt="amansingh-gh" /> </p>
-
-- 🌱 Currently learning **MERN Stack & Networking**
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://instagram.com/_x_aman_singh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_x_aman_singh_" height="30" width="40" /></a>
