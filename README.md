@@ -1,6 +1,3 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/amansingh-gh/amansingh=gh/master/name.svg" alt="Aman Kr. Singh" />
-</h1>
 
 
 <h3 align="left">Connect with me:</h3>
