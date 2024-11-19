@@ -40,9 +40,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Let's+Connect)](https://git.io/typing-svg)
 
-- 🏢 I am a Full Stack Developer
-- 🏫 2026 MCA graduate from SU
-- 🏫 2024 BCA graduate from JISCE
+- 🏢 I am a Full Stack Developer.
+- 🏫 Pursuing an MCA, graduating in 2026 from SU.
+- 🏫 BCA graduate, Class of 2024, from JISCE.
 - 🙋‍ More about me: Visit my [website](https://#######/)
 - 🖇 Follow me on [LinkedIn](https://www.linkedin.com/in/amansingh-gh/)
 - 👯 Pronouns: He/Him
