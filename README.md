@@ -4,7 +4,7 @@
 
 ###### Glad to see you here :heart:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shumbul&label=Views&color=blue&style=plastic" alt="amansingh-gh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amansingh-gh&label=Views&color=blue&style=plastic" alt="amansingh-gh" /> </p>
 
 <a href="https://shumbularifa.com">
   <kbd>
