@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on:<br>Building full-stack web applications using Spring Boot, React.js, and MongoDB, focusing on REST API development, authentication, and clean backend architecture.<br>👯 Looking to collaborate on:<br>Open-source projects or team-based applications related to Java backend development, Spring Boot microservices, REST APIs, or full-stack web development.<br>🤝 Looking for help with:<br>Improving Spring Boot best practices, system design fundamentals, API security, and deploying applications using tools like Docker or cloud platforms.<br>🌱 Currently learning:<br>Advanced Spring Boot, JWT-based authentication, REST API optimization, and basic system design concepts.<br>
+🔭 Currently working on:<br>Building full-stack web applications using Spring Boot, React.js, and MongoDB, focusing on REST API development, authentication, and clean backend architecture.<br>👯 Looking to collaborate on:<br>Open-source projects or team-based applications related to Java backend development, Spring Boot microservices, REST APIs, or full-stack web development.<br>🤝 Looking for help with:<br>Improving Spring Boot best practices, system design fundamentals, API security, and deploying applications using tools like Docker or cloud platforms.<br>🌱 Currently learning:<br>Deep Learning & Gen AI<br>
 
 
 ## 🌐 Socials:
