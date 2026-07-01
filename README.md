@@ -54,93 +54,6 @@ Currently I'm focused on developing AI-powered applications involving:
 
 ---
 
-# 🚀 Featured Project
-
-## 🤖 ResumeIQ--AI
-
-An AI-powered Resume Intelligence Platform that helps users improve their resumes using Large Language Models.
-
-### Features
-
-- ATS Resume Analysis
-- Resume-aware AI Chat
-- Personalized Career Guidance
-- PDF Resume Preview
-- Cloudinary Integration
-- JWT Authentication
-- Email Verification
-- Dark / Light Theme
-- Responsive UI
-
-**Tech Stack**
-
-React • TypeScript • Node.js • Express.js • MongoDB • Groq Llama 3.3 • Tailwind CSS • Cloudinary • JWT • Nodemailer
-
----
-
-# 💻 Tech Stack
-
-### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-
-### Frontend
-
-React • Vite • Tailwind CSS • shadcn/ui • Framer Motion
-
-### Backend
-
-Node.js • Express.js • Spring Boot • REST APIs • JWT • Swagger
-
-### Databases
-
-MongoDB • PostgreSQL • MySQL • SQLite
-
-### Generative AI
-
-LLMs • Prompt Engineering • LangChain • RAG • ChromaDB • Hugging Face • Vector Databases
-
-### Machine Learning
-
-Scikit-learn • TensorFlow • Pandas • NumPy
-
-### Tools
-
-Git • GitHub • Postman • Docker • Cloudinary • VS Code
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=amansingh-gh&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansingh-gh&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=amansingh-gh&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=amansingh-gh&theme=algolia&margin-w=15&margin-h=15"/>
-
-</p>
-
----
 
 # 🌐 Connect With Me
 
@@ -158,8 +71,8 @@ Git • GitHub • Postman • Docker • Cloudinary • VS Code
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://your-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+<a href="https://portfolio-sooty-eight-62.vercel.app/"> target="_blank">
+<img src="https://img.shields.io/badge/🌐_Portfolio-0A66FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </p>
