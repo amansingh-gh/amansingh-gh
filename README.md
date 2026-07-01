@@ -71,7 +71,7 @@ Currently I'm focused on developing AI-powered applications involving:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://portfolio-sooty-eight-62.vercel.app/"> target="_blank">
+<a href="https://portfolio-sooty-eight-62.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/🌐_Portfolio-0A66FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
